@@ -1,8 +1,9 @@
 # Interviewing wbLCA Practitioners
 
 Analysis code and de-identified data for a semi-structured interview study of
-whole-building life cycle assessment (wbLCA) practitioners in the United States
-and Canada (n = 46). The study examines practitioner demographics, tool usage,
+whole-building life cycle assessment (wbLCA) practitioners (n = 46), practising
+primarily in the United States with a small number based in Canada. The study
+examines practitioner demographics, tool usage,
 time allocation, team structure, data sources, problems encountered in practice,
 and receptiveness to advanced LCA methods (parametric and dynamic LCA).
 
