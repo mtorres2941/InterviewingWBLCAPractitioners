@@ -44,7 +44,9 @@ notebook reproduces identically without them. Interviews were conducted between
 2025-06-20 and 2026-01-06.
 
 The identifiable source data is not distributed and is retained by the author
-under the study's IRB protocol. <!-- TODO: add IRB protocol number -->
+under the study's IRB protocol. This study was reviewed by the University of
+Colorado Boulder Institutional Review Board (Protocol #25-0169), and informed
+consent was obtained from all participants.
 
 Firm-level attributes in the `SE2050`, `A2030`, and `NonCP` sampling-frame sheets
 are pre-binned (e.g. employee counts as `D: 201-500`) and contain no firm names.
@@ -62,7 +64,8 @@ InterviewingWBLCAPractitioners/
 │   ├── figures/                      # 19 figures (PNG)
 │   └── tables/
 │       ├── tagcounts.xlsx            # Tag frequency counts
-│       └── top_comments_by_category.xlsx  # Codes cited by >=20% of participants
+│       ├── top_comments_by_category.xlsx  # Codes cited by >=20% of participants (Supplement 4)
+│       └── manuscript_claim_checks.xlsx   # Every numeric claim in the manuscript, recomputed
 ├── CITATION.cff
 ├── LICENSE                           # MIT (code)
 ├── LICENSE-DATA                      # CC BY 4.0 (data)
