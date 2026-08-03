@@ -125,7 +125,7 @@ jupyter nbconvert --to notebook --execute --inplace SurveyWBLCAPractitioners.ipy
 
 ## Citation
 
-> Torres, M. (2026). *Interviewing wbLCA Practitioners: analysis code and
+> Torres, M. I., Srubar, W. V., III, & Liel, A. B. (2026). *Interviewing wbLCA Practitioners: analysis code and
 > de-identified interview data* (Version 1.0.0) [Data set]. Zenodo.
 > https://doi.org/10.5281/zenodo.21781572
 
@@ -138,7 +138,12 @@ version-specific DOI for v1.0.0 is `10.5281/zenodo.21781573`.
 - **Code** (`SurveyWBLCAPractitioners.ipynb`): MIT — see [LICENSE](LICENSE)
 - **Data** (`data/`, `outputs/`): CC BY 4.0 — see [LICENSE-DATA](LICENSE-DATA)
 
-## Author
+## Authors
 
-Martín Torres — PhD Candidate, Architectural Engineering, University of Colorado Boulder
-GitHub: [mtorres2941](https://github.com/mtorres2941)
+- **Martín I. Torres** — PhD Candidate, Architectural Engineering, University of
+  Colorado Boulder ([ORCID](https://orcid.org/0009-0005-2039-8030), GitHub:
+  [mtorres2941](https://github.com/mtorres2941))
+- **Wil V. Srubar III** — University of Colorado Boulder
+  ([ORCID](https://orcid.org/0000-0001-8226-2458))
+- **Abbie B. Liel** — University of Colorado Boulder
+  ([ORCID](https://orcid.org/0000-0002-9241-5144))

@@ -3,9 +3,19 @@
   "upload_type": "dataset",
   "creators": [
     {
-      "name": "Torres, Martín",
+      "name": "Torres, Martín I.",
       "affiliation": "University of Colorado Boulder",
       "orcid": "0009-0005-2039-8030"
+    },
+    {
+      "name": "Srubar III, Wil V.",
+      "affiliation": "University of Colorado Boulder",
+      "orcid": "0000-0001-8226-2458"
+    },
+    {
+      "name": "Liel, Abbie B.",
+      "affiliation": "University of Colorado Boulder",
+      "orcid": "0000-0002-9241-5144"
     }
   ],
   "version": "1.0.0",
