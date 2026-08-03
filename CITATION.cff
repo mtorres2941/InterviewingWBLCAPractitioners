@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+title: >-
+  Interviewing wbLCA Practitioners: analysis code and de-identified
+  interview data
+message: >-
+  If you use this dataset or code, please cite it using the metadata
+  from this file.
+type: dataset
+authors:
+  - given-names: Martín
+    family-names: Torres
+    email: martin.torres@colorado.edu
+    affiliation: >-
+      Department of Civil, Environmental and Architectural Engineering,
+      University of Colorado Boulder
+    # TODO: add ORCID before minting the DOI
+    # orcid: 'https://orcid.org/0000-0000-0000-0000'
+repository-code: 'https://github.com/mtorres2941/InterviewingWBLCAPractitioners'
+abstract: >-
+  Analysis code and de-identified data from a semi-structured interview
+  study of 46 whole-building life cycle assessment (wbLCA) practitioners
+  in the United States and Canada. Participants comprise 20 architects,
+  20 engineers, and 6 sustainability consultants, recruited from the
+  SE 2050 and AIA 2030 commitment programs and from firms belonging to
+  neither. The study examines practitioner demographics, LCA tool usage,
+  time allocation, team structure, material quantity takeoff workflows,
+  embodied carbon data sources, problems encountered in practice, and
+  receptiveness to parametric and dynamic LCA methods. Interview
+  responses were coded inductively; all reported counts are counts of
+  participants who volunteered a topic and should be read as lower
+  bounds on prevalence rather than as response rates.
+keywords:
+  - life cycle assessment
+  - whole-building LCA
+  - embodied carbon
+  - building information modeling
+  - qualitative research
+  - practitioner interviews
+  - architecture engineering construction
+license: CC-BY-4.0
+license-url: 'https://creativecommons.org/licenses/by/4.0/'
+# TODO: add version and release date when the Zenodo deposit is created
+# version: 1.0.0
+# date-released: '2026-08-03'

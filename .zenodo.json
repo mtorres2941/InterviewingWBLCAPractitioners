@@ -1,0 +1,23 @@
+{
+  "title": "Interviewing wbLCA Practitioners: analysis code and de-identified interview data",
+  "upload_type": "dataset",
+  "creators": [
+    {
+      "name": "Torres, Martín",
+      "affiliation": "University of Colorado Boulder"
+    }
+  ],
+  "description": "<p>Analysis code and de-identified data from a semi-structured interview study of 46 whole-building life cycle assessment (wbLCA) practitioners in the United States and Canada. Participants comprise 20 architects, 20 engineers, and 6 sustainability consultants, recruited from the SE 2050 and AIA 2030 commitment programs and from firms belonging to neither.</p><p>The study examines practitioner demographics, LCA tool usage, time allocation, team structure, material quantity takeoff workflows, embodied carbon data sources, problems encountered in practice, and receptiveness to parametric and dynamic LCA methods.</p><p>Interview responses were coded inductively. All reported counts are counts of participants who volunteered a topic, not responses to closed-ended items, and should be read as lower bounds on prevalence rather than as response rates.</p><p>The dataset has been de-identified: raw interview notes, pre-consolidation codes, and interview dates were removed, and one named employer embedded in an analysis code was generalized. None of the removed fields are used by the analysis. See README.md for details.</p>",
+  "access_right": "open",
+  "license": "cc-by-4.0",
+  "keywords": [
+    "life cycle assessment",
+    "whole-building LCA",
+    "embodied carbon",
+    "building information modeling",
+    "qualitative research",
+    "practitioner interviews",
+    "architecture engineering construction"
+  ],
+  "language": "eng"
+}
