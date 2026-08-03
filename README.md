@@ -10,7 +10,12 @@ and receptiveness to advanced LCA methods (parametric and dynamic LCA).
 Developed as part of a PhD dissertation in Architectural Engineering at the
 University of Colorado Boulder, in Dr. Wil Srubar's Living Materials Laboratory.
 
-<!-- TODO: add Zenodo DOI badge once the deposit is created -->
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+
+<!-- REPLACE XXXXXXX above with the Zenodo CONCEPT DOI once the first release
+     is archived. Zenodo mints two DOIs: a version DOI for each release and a
+     concept DOI that always resolves to the newest version. Use the concept
+     DOI here and in the manuscript. -->
 
 ## Study design
 
@@ -125,8 +130,12 @@ jupyter nbconvert --to notebook --execute --inplace SurveyWBLCAPractitioners.ipy
 
 ## Citation
 
-If you use this data or code, please cite it via the metadata in
-`CITATION.cff`, or the Zenodo DOI once minted.
+> Torres, M. (2026). *Interviewing wbLCA Practitioners: analysis code and
+> de-identified interview data* (Version 1.0.0) [Data set]. Zenodo.
+> https://doi.org/10.5281/zenodo.XXXXXXX
+
+Machine-readable metadata is in [CITATION.cff](CITATION.cff). Cite the concept
+DOI rather than a version DOI so the reference resolves to the newest release.
 
 ## License
 

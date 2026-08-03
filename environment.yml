@@ -1,13 +1,23 @@
+# Environment for reproducing the analysis in SurveyWBLCAPractitioners.ipynb.
+#
+# These versions are the ones the notebook has actually been executed against
+# end-to-end, with all 63 manuscript claim checks passing. The notebook has also
+# been verified to run unchanged under pandas 2.3.3 / numpy 2.x, so the pins
+# below are for exact reproducibility rather than hard requirements.
+#
+#   conda env create -f environment.yml
+#   conda activate interviewing_wblca
+#   jupyter lab
 name: interviewing_wblca
 channels:
   - conda-forge
-  - defaults
 dependencies:
-  - python=3.11.9
-  - numpy=1.26.4
-  - pandas=1.5.3
-  - matplotlib=3.7.2
-  - seaborn=0.12.2
+  - python=3.11.15
+  - numpy=2.4.6
+  - pandas=3.0.5
+  - matplotlib=3.11.1
+  - seaborn=0.13.2
   - openpyxl=3.1.5
-  - ipykernel=6.29.5
-  - jupyterlab=3.6.3
+  - ipykernel=7.3.0
+  - jupyterlab=4.6.2
+  - nbconvert=7.17.1

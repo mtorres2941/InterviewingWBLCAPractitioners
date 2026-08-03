@@ -13,9 +13,13 @@ authors:
     affiliation: >-
       Department of Civil, Environmental and Architectural Engineering,
       University of Colorado Boulder
-    # TODO: add ORCID before minting the DOI
-    # orcid: 'https://orcid.org/0000-0000-0000-0000'
+    # REPLACE before tagging the release:
+    orcid: 'https://orcid.org/XXXX-XXXX-XXXX-XXXX'
 repository-code: 'https://github.com/mtorres2941/InterviewingWBLCAPractitioners'
+# REPLACE with the Zenodo CONCEPT DOI (the one that always resolves to the
+# newest version), available once the first release is archived. The concept
+# DOI is the value to cite in the manuscript.
+doi: 10.5281/zenodo.XXXXXXX
 abstract: >-
   Analysis code and de-identified data from a semi-structured interview
   study of 46 whole-building life cycle assessment (wbLCA) practitioners
@@ -40,6 +44,6 @@ keywords:
   - architecture engineering construction
 license: CC-BY-4.0
 license-url: 'https://creativecommons.org/licenses/by/4.0/'
-# TODO: add version and release date when the Zenodo deposit is created
-# version: 1.0.0
-# date-released: '2026-08-03'
+version: 1.0.0
+# REPLACE with the actual release date if it is not today
+date-released: '2026-08-03'
