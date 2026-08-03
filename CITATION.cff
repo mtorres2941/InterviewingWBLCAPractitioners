@@ -15,12 +15,10 @@ authors:
       University of Colorado Boulder
     orcid: 'https://orcid.org/0009-0005-2039-8030'
 repository-code: 'https://github.com/mtorres2941/InterviewingWBLCAPractitioners'
-# After the first release is archived, uncomment the line below and replace
-# XXXXXXX with the Zenodo CONCEPT DOI -- the one Zenodo labels "Cite all
-# versions", which always resolves to the newest release. That is also the
-# value to cite in the manuscript. Left commented out until then so this file
-# never advertises a malformed DOI.
-# doi: 10.5281/zenodo.XXXXXXX
+# Zenodo concept DOI: always resolves to the newest release, and is the value
+# cited in the manuscript. The version-specific DOI for v1.0.0 is
+# 10.5281/zenodo.21781573.
+doi: 10.5281/zenodo.21781572
 abstract: >-
   Analysis code and de-identified data from a semi-structured interview
   study of 46 whole-building life cycle assessment (wbLCA) practitioners
