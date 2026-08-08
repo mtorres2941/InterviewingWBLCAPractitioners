@@ -61,7 +61,7 @@ InterviewingWBLCAPractitioners/
 │       ├── SurveyStudyAnalysis.xlsx  # De-identified study data (7 sheets)
 │       └── CategorizingTags.xlsx     # Manual tag categorization reference
 ├── outputs/
-│   ├── figures/                      # 19 figures (PNG)
+│   ├── figures/                      # 20 figures (PNG), incl. the graphical abstract (PNG + PDF)
 │   └── tables/
 │       ├── tagcounts.xlsx            # Tag frequency counts
 │       ├── top_comments_by_category.xlsx  # Codes cited by >=20% of participants (Supplement 4)
